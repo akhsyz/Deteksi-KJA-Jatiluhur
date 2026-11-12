@@ -1,0 +1,13 @@
+file,zona,panjang_bar_m,bar_px,m_per_px,lebar,tinggi,zoom
+zona1_a.jpg,Zona 1,500,327,1.5291,1920,1080,terlalu jauh (> 1.5)
+zona1_b.jpg,Zona 1,500,317,1.5773,1920,1080,terlalu jauh (> 1.5)
+zona2_a.jpg,Zona 2,600,341,1.7595,1920,1080,terlalu jauh (> 1.5)
+zona2_b.jpg,Zona 2,500,303,1.6502,1920,1080,terlalu jauh (> 1.5)
+zona2_c.jpg,Zona 2,500,340,1.4706,1920,1080,cukup (1.0 sampai 1.5)
+zona3_a.jpg,Zona 3+4,200,273,0.7326,2354,1514,baik (< 1.0 m/px)
+zona3_b.jpg,Zona 3+4,200,258,0.7752,2354,1514,baik (< 1.0 m/px)
+zona4_a.jpg,Zona 3+4,200,308,0.6494,2354,1514,baik (< 1.0 m/px)
+zona4_b.jpg,Zona 3+4,200,276,0.7246,2354,1514,baik (< 1.0 m/px)
+zona4_c.jpg,Zona 3+4,200,358,0.5587,2354,1514,baik (< 1.0 m/px)
+zona5_a.jpg,Zona 5,300,313,0.9585,2354,1514,baik (< 1.0 m/px)
+zona5_b.jpg,Zona 5,500,354,1.4124,2354,1514,cukup (1.0 sampai 1.5)
